@@ -1,4 +1,4 @@
-# GS Gulliver Reserva de hotel
+# GS Gulliver Reserva de Hotel
 # Entrega do Grupo SHARKS
 - Felipe Enzo Baptistella RM 85039
 - Igor Ferreira Calbo RM 81274
